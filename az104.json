@@ -1,0 +1,46 @@
+{
+  "id": "d4a2c820-5e41-4b76-a2d4-8b1a263d3c5e",
+  "title": "AZ-104 Core Concepts",
+  "flashcards": [
+    {
+      "id": "2a1b6d0d-7e3e-4d33-99b5-1ea21ff70590",
+      "question": "What is Azure Active Directory (AAD)?",
+      "answer": "Microsoft’s cloud-based identity and access management service."
+    },
+    {
+      "id": "e914340f-d9c7-4b6b-846e-facc1f68d16a",
+      "question": "What is the purpose of Azure Resource Manager (ARM)?",
+      "answer": "It enables deployment, management, and organization of Azure resources."
+    },
+    {
+      "id": "b299a693-6014-4b92-a8d0-e3cd76e2f1cd",
+      "question": "Which Azure service provides DNS domain hosting?",
+      "answer": "Azure DNS."
+    },
+    {
+      "id": "f4f4c3f5-efcb-4204-8a87-302f91f0cb0e",
+      "question": "What is the function of a Network Security Group (NSG)?",
+      "answer": "It filters network traffic to and from Azure resources in an Azure virtual network."
+    },
+    {
+      "id": "326f8b91-f690-4201-9613-5de5e417c861",
+      "question": "What tool allows command-line management of Azure resources?",
+      "answer": "Azure CLI."
+    },
+    {
+      "id": "47ea5b9f-6b96-4bc7-b5ed-6d8ea8603bc7",
+      "question": "What is the default replication strategy for a new Azure Storage account?",
+      "answer": "Locally redundant storage (LRS)."
+    },
+    {
+      "id": "31fbc034-f569-4cc2-89f1-8fcfa7ac1ad0",
+      "question": "Which Azure service provides monitoring and observability?",
+      "answer": "Azure Monitor."
+    },
+    {
+      "id": "9fd3ac98-6a9f-40c2-98d2-cdd3e5f7bfc6",
+      "question": "What are resource groups used for in Azure?",
+      "answer": "They group related resources for easier management, monitoring, and billing."
+    }
+  ]
+}
