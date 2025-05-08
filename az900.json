@@ -1,7 +1,7 @@
 {
   "id": "A2C4714D-3AD1-4C5D-A9F1-61A4F5A86F65",
-  "name": "AZ-900 Core Concepts",
-  "cards": [
+  "title": "AZ-900 Core Concepts",
+  "flashcards": [
     {
       "id": "C1",
       "question": "What is the primary benefit of cloud computing?",
